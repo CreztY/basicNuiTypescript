@@ -20,13 +20,19 @@ This script is a basic and essential implementation for creating a Native User I
 
 ## Installation
 
-1. Download the `basicNuiTypescript` folder.
-2. Place the `basicNuiTypescript` folder in your FiveM server's `resources` directory.
-3. Add `start basicNuiTypescript` to your server.cfg file. or use `refresh`, and `start basicNuiTypescript` in the server console
-4. If you chose to add that line to your server.cfg, Restart your FiveM server.
+1. write in terminal:
+
+```bash
+    cd web
+    npm i
+```
+
+2. Download the `basicNuiReact` folder.
+3. Place the `basicNuiReact` folder in your FiveM server's `resources` directory.
+4. Add `start basicNuiReact` to your server.cfg file. or use `refresh`, and `start basicNuiReact` in the server console
+5. If you chose to add that line to your server.cfg, Restart your FiveM server.
 
 
-    
 ## Usage/Examples
 
 inside the game you can write in the chat /show-ui, and the website will be shown on the screen
