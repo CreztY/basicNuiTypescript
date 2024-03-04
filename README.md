@@ -39,6 +39,15 @@ inside the game you can write in the chat /show-ui, and the website will be show
 ```
 
 - and then restart the server, or use the `refresh` command, and restart `basicNuiTypescript` in the server console
+
+## Screenshots
+
+- typing `show-ui` in the chat, our website will appear.
+![Screenshot 01](https://raw.githubusercontent.com/CreztY/basicNuiTypescript/main/preview/01.png)
+
+- by pressing the `ESC` key, it will stop showing our website
+![Screenshot 01](https://raw.githubusercontent.com/CreztY/basicNuiTypescript/main/preview/02.png)
+
 ## Author
 
 - [@CreztY](https://www.github.com/CreztY)
